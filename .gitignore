@@ -1,0 +1,7 @@
+*.rnote
+dist/
+node_modules/
+.vscode/
+.prettierignore
+.prettierrc.json
+eslint.config.js
